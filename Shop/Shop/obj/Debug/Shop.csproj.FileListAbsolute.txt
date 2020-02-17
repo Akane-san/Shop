@@ -1,0 +1,6 @@
+C:\Users\Пользователь\source\repos\Shop\Shop\bin\Debug\Shop.dll
+C:\Users\Пользователь\source\repos\Shop\Shop\bin\Debug\Shop.pdb
+C:\Users\Пользователь\source\repos\Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Shop\Shop\obj\Debug\Shop.dll
+C:\Users\Пользователь\source\repos\Shop\Shop\obj\Debug\Shop.pdb
